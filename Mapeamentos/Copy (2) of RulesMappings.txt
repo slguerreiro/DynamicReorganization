@@ -1,0 +1,4 @@
+12#OBSTACLE RIGHT#GO LEFT#5#avoid obstacle
+12#OBSTACLE DOWN#GO REVERSE#6#avoid obstacle
+12#OBSTACLE UP#GO FORWARD#7#avoid obstacle
+12#OBSTACLE LEFT#GO RIGHT#8#avoid obstacle

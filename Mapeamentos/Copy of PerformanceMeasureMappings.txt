@@ -1,0 +1,7 @@
+motor1#posição##posição do robot no espaço
+motor2#posição##posição do robot no espaço
+motor3#posição##posição do robot no espaço
+motor4#posição##posição do robot no espaço
+motor5#posição##posição do robot no espaço
+Robot#RobotPositionX##posição robot X 
+Robot#RobotPositionY##posição robot Y

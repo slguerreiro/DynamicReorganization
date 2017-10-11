@@ -1,0 +1,1 @@
+12#OBSTACLE RIGHT#GO REVERSE#1#avoid obstacle

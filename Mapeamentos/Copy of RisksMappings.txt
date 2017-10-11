@@ -1,0 +1,9 @@
+AND(>(+(1,2),-(4,5)),OR(=(4,5),<=(8,7)))#1#100#distancia e perigosa
+AND(>(+(1,2),-(4,5)),OR(=(4,5),<=(8,7)))#2#110#distancia e perigosa
+AND(>(+(1,2),-(4,5)),AND(OR(=(4,5),<=(8,8)),=(1,2)))#3#98#distancia e perigosa
+=(+(1.1,2.0),3.1)#4#1000#Description
+<(*(+(0.1,0.2),+(0.3,0.4)),0.5)#5#123#Description
+OR(<(+(1,2),3),>=(*(4,5),21))#6#234#Description
+NOT(>(+(1,2),1),12)#7#54#Description
+=(ABS(1,0),1)#8#756#Description
+<>(6,7)#9#123#Description

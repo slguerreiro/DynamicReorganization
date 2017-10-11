@@ -1,0 +1,29 @@
+Obstacle#NextObstacleDistance##Distancia do Robot ao obstaculo
+Obstacle#NextObstacleID##Identificador dos obstaculos
+Robot#RobotPositionX##Posicao X do Robot 
+Robot#RobotPositionY##Posicao Y do Robot 
+Robot#RobotDimensionX##Dimensao X do Robot
+Robot#RobotDimensionY##Dimensao Y do Robot
+Obstacle#Obstacle1X##Posicao X do obstaculo 1
+Obstacle#Obstacle2X##Posicao X do obstaculo 2
+Obstacle#Obstacle3X##Posicao X do obstaculo 3
+Obstacle#Obstacle1Y##Posicao Y do obstaculo 1
+Obstacle#Obstacle2Y##Posicao Y do obstaculo 2
+Obstacle#Obstacle3Y##Posicao Y do obstaculo 3
+Obstacle#Obstacle1XDimension##Dimensao X do obstaculo 1
+Obstacle#Obstacle2XDimension##Dimensao X do obstaculo 2
+Obstacle#Obstacle3XDimension##Dimensao X do obstaculo 3
+Obstacle#Obstacle1YDimension##Dimensao Y do obstaculo 1
+Obstacle#Obstacle2YDimension##Dimensao Y do obstaculo 2
+Obstacle#Obstacle3YDimension##Dimensao Y do obstaculo 3
+tempo#Time##Tempo da simulacao
+Final Point#FinalPointX##Coordenada X do ponto final
+Final Point#FinalPointY##Coordenada Y do ponto final
+Obstacle#Obstacle4X##Posicao X do obstaculo 4
+Obstacle#Obstacle5X##Posicao X do obstaculo 5
+Obstacle#Obstacle4Y##Posicao Y do obstaculo 4
+Obstacle#Obstacle5Y##Posicao Y do obstaculo 5
+Obstacle#Obstacle4XDimension##Dimensao X do obstaculo 4
+Obstacle#Obstacle5XDimension##Dimensao X do obstaculo 5
+Obstacle#Obstacle4YDimension##Dimensao Y do obstaculo 4
+Obstacle#Obstacle5YDimension##Dimensao Y do obstaculo 5
